@@ -77,16 +77,3 @@ const playerChoice = () => {
 }
 
 playerChoice()
-
-
-// const game = () => {
-
-
-//     if(playerPoints > computerPoints) {
-//         console.log("You win the game!") 
-//     } else if(playerPoints < computerPoints) {
-//         console.log("You lose the game!")
-//     } else {
-//         console.log("It's a tie!")
-//     }
-// }
